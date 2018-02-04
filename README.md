@@ -1,3 +1,11 @@
+Executar
+--------
+Para poder visualizar a página, execute o seguinte comando no terminal:
+
+    python -m CGIHTTPServer
+
+e ela estará acessível em [`0.0.0.0:8000`](http://0.0.0.0:8000)
+
 Referência
 ----------
 
