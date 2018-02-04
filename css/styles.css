@@ -1,4 +1,4 @@
-html {
+body {
     font-family: 'Roboto';
 }
 
@@ -22,6 +22,7 @@ ul {
 .card {
     border: 2px solid #bcbcbc;
     box-shadow: 4px 4px #bcbcbc;
+    margin: 0 auto;
     padding: 8px;
     width: 300px;
 }
