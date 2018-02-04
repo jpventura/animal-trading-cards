@@ -1,1 +1,37 @@
-/* add your CSS here */
+html {
+    font-family: 'Roboto';
+}
+
+h1 {
+    font-style: bold;
+}
+
+img {
+    width: 300px;
+}
+
+span {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.card {
+    border: 2px solid #bcbcbc;
+    box-shadow: 4px 4px #bcbcbc;
+    padding: 8px;
+    width: 300px;
+}
+
+.card-details {
+    border: 2px solid #bcbcbc;
+    font-weight: lighter;
+    padding: 8px;
+}
+
+.card-title {
+    font-style: italic;
+}
